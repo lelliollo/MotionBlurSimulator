@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotionBlurSimulator", "MotionBlurSimulator\MotionBlurSimulator.csproj", "{3588BDD6-F846-4C60-A6B4-A6A15F3FD4FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3588BDD6-F846-4C60-A6B4-A6A15F3FD4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3588BDD6-F846-4C60-A6B4-A6A15F3FD4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3588BDD6-F846-4C60-A6B4-A6A15F3FD4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3588BDD6-F846-4C60-A6B4-A6A15F3FD4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1F71FB4-5825-4BB9-B87F-682D31678CFB}
+	EndGlobalSection
+EndGlobal
